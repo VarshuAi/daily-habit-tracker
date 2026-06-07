@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Check habits, track streaks, and compile status.
+  name: daily-habit-tracker version: 1.0 type: Repository author: VarshuAi description: >   Check habits, track streaks, and compile status. primary_tech: CSS
 primary_tech: CSS
 ```
 
